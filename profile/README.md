@@ -11,13 +11,6 @@ This project was part of the globant challenge for data engineering, this consis
 **GetDeptJobsHiringStats21Q:** Returns an sql view that returns the number of employees hired for each job and department in 2021 divided by quarter. The table must be ordered alphabetically by department and job.
 **GetTopDeptHiring21:** Returns an sql view that returns a list of ids, name and number of employees hired of each department that hired more employees than the mean of employees hired in 2021 for all the departments, ordered by the number of employees hired (descending).
 
-<!--
+For the deployment of the lambda functions it was used AWS Container Registry to push 3 different docker containers, where each one will be permforming each of the task mentioned above.
+For the database it was used posgresSQL with AWS RDS having 3 tables: Deparments, jobs, hired_employeees.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
