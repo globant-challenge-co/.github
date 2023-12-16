@@ -14,3 +14,20 @@ This project was part of the globant challenge for data engineering, this consis
 For the deployment of the lambda functions it was used AWS Container Registry to push 3 different docker containers, where each one will be permforming each of the task mentioned above.
 For the database it was used posgresSQL with AWS RDS having 3 tables: Deparments, jobs, hired_employeees.
 
+## API
+
+The API provides an base url which with send the requests to each lambda base on the three endpoints.
+
+Base URL: `https://8xzqdc7k4e.execute-api.us-east-1.amazonaws.com/test/`
+
+
+For the documentation of each endpoint please check the .Readme of each lambda in the current organization.
+
+## Contact
+
+- Email: libros123bmw@gmail.com
+- LinkedIn: [Juan Sebastian Vargas on LinkedIn](https://www.linkedin.com/in/juan-sebastián-vargas-torres-9b4a15189/)
+
+
+Feel free to reach out if you have any questions or feedback! 
+Cheers🤘🏻
