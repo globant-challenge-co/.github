@@ -2,7 +2,7 @@
 
 ## Author
 
-**Juan Sebastian Vargas Torres - Systems Engineer - Bogotá, Colombia **
+Juan Sebastian Vargas Torres - Systems Engineer - Bogotá, Colombia
 
 # High Level Architecture
 
