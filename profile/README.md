@@ -1,6 +1,11 @@
 # Globant Data Engineer Challenge
 
-#High Level Architecture
+## Author
+
+**Juan Sebastian Vargas Torres**
+**Systems Engineer**
+
+# High Level Architecture
 
 <img width="1087" alt="Screenshot 2023-12-16 at 11 37 26 AM" src="https://github.com/globant-challenge-co/.github/assets/52805660/07cb67fc-8774-4e2b-b71d-1ce75bc36bbe">
 
